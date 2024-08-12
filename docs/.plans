@@ -1,0 +1,28 @@
+# create models
+#   user, messages, guru
+# create message box
+# serve
+# charge money
+# add AI tools to guru compose page
+
+TODO:
+1/1/2024:
+get auth system working
+make admin site
+
+add linter for frontend
+frontend - add webpack? compare
+
+
+12/31/2023:
+~~add linter for Python
+get auth system working
+make admin site
+
+add linter for frontend
+frontend - add webpack? compare
+
+~~12/30/2023:
+add linter for Python
+~~add git repo for frontend
+~~set up basic project
